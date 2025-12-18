@@ -1,5 +1,5 @@
-# CS-230
-A repo to display skills that I acquired in my time during the course CS-230 at SNHU. 
+# CS-230 Operating Platforms
+A repo to display skills that I acquired in my time during the course CS-230 at SNHU. In this course I developed a deeper understanding of architectures and operating platforms through the evaluation and analysis of their advantages, weaknesses, and characteristics. In this course I was able to learn how to solve problems by utilizing software design templates as well as to their value. 
 
 Software Design Document Reflection
 
@@ -27,4 +27,4 @@ How did you approach designing software? What techniques or strategies would you
 
 My approach to designing the software emphasized modularity, scalability, and clear separation of concerns. I relied on object-oriented principles, UML diagrams, and architectural comparisons to guide decision-making. In future projects, I would continue using these strategies while also incorporating more iterative feedback and early prototyping to validate design decisions sooner in the development process.
 
--JMG3000
+-Jacob
